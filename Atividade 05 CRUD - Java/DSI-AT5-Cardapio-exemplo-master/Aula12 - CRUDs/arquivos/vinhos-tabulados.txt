@@ -1,0 +1,13 @@
+Cabernet Sauvignon;25.50
+Cabernet Franc;27.45
+Tannat Uruguaio;33.00
+Merlot Francês;45.50
+Malbec Argentino;35.00
+Pinot Noir;47.77
+Riesling Itálico;54.00
+Chardonnay Americano;38.10
+Gewurztraminer;57.00
+Semillón;39.90
+Sauvignon Blanc;46.90
+Barbera Italiana;39.00
+Moscato;35.25
